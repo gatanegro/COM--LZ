@@ -57,6 +57,7 @@ harmonic wave attractors.
 To prove that LZ is a scaling rate, we analyzed the recursive
 structure of energy evolution:
 
+
 Step 1: Recursive Wave Evolution
 
 Step 2: Comparing LZ to Recursive Energy Limits
